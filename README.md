@@ -1,8 +1,7 @@
 - 🔭 I'm Learning new things along my journey!
 - 👯 I’m looking to collaborate looking to evolve personally and professionally!.
-- 📫 How to reach me: jv.maia29@gmail.com
--    Linkedin: https://www.linkedin.com/in/jo%C3%A3ovitormaia-dev/
-
+- 📫 Gmail: jv.maia29@gmail.com
+- 📧 Linkedin: <a href="https://www.linkedin.com/in/jo%C3%A3ovitormaia-dev/" target="_blank">https://www.linkedin.com/in/joãovitormaia-dev/</a>
 <div align="center">
   <a href="https://github.com/JMaia7">
 
