@@ -2,6 +2,7 @@
 - 🌱 I’m Learning the basics of programming in general.
 - 👯 I’m looking to collaborate looking to evolve personally and professionally!.
 - 📫 How to reach me: jv.maia29@gmail.com
+-    Linkedin: https://www.linkedin.com/in/jo%C3%A3ovitormaia-dev/
 
 <div align="center">
   <a href="https://github.com/JMaia7">
